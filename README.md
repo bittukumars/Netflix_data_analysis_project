@@ -39,4 +39,4 @@ Based on the analysis of the Netflix dataset, the following key insights were de
 
 ## Usage
 
-This repository contains a Jupyter Notebook with Python code for analyzing the Netflix dataset. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations.
+For analyzing this project, the Jupyter Notebook was utilized. The analysis involved various data processing tasks, exploratory data analysis, and the creation of visualizations using Python libraries within the Jupyter Notebook environment.
